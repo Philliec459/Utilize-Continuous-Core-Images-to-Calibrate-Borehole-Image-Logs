@@ -9,8 +9,8 @@ Our plan is to create continuous concatenated core images as shown below and cre
 
 ![Core_Image](Core_FMS.png)
 
-ConContinuous, high-resolution Profile Permeability measurements from the slab surface of the core are also found to be quite useful in validating the quality of the sands and the flow capacity of each sand. 
+Continuous, high-resolution Profile Permeability measurements from the slab surface of the core are also found to be quite useful in validating the quality of the sands and the flow capacity of each sand. 
 
 ![PPerm_Image](Core_PPerm.png)
 
-It is prossible to train the core images for even borehole images to predict a high-resolution permeability log to define the permeability profile of the reservoir. 
+It is possible to train the core images for even borehole images to predict a high-resolution permeability log to define the permeability profile of the reservoir. It is also reasonable to expect to be able to estimate capillary pressure and Rock Types along the borehole in the process. 
