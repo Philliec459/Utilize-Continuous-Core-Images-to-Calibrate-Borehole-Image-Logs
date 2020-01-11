@@ -1,4 +1,4 @@
-# Utilize-Continuous-Core-Images-to-Calibrate-Borehole-Images
+# Utilize-Core-Images-to-Calibrate-Borehole-Images
 
 Objective:
 With this program we take continuous high-resolution digital core images of the reservoir rock and process these images to define sand vs. shale for Borehole Image log calibration and Sand Count.
