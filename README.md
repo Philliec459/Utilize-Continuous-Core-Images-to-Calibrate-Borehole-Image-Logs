@@ -15,9 +15,9 @@ Continuous, high-resolution Profile Permeability measurements from the slab surf
 
 It is possible to train the core images for even borehole images to predict a high-resolution permeability log to define the permeability profile of the reservoir. It is also reasonable to expect to be able to estimate capillary pressure and Rock Types along the borehole in the process. 
 
-We need data. If anyone has the appropriate data that they could contribute to this project, it would very much appreciated. 
+We need data for this project. If anyone has the appropriate, releasable data that they could contribute to this project, it would very much appreciated. 
 
 
 
-1. Georgi, D.T., Phillips C. and Hardman, R, Applications of Digital Core Image Analysis to Thin-Bed Evaluation, SPE, 1992, SPENC-9213
+1. Georgi, D.T., Phillips C., Hardman, R, Applications of Digital Core Image Analysis to Thin-Bed Evaluation, SPE, 1992, SPENC-9213
 2. Phillips, C., DiFoggio R., Burleigh K., Extracting Information from Digital Images of Core, Society of Core Analysts, 5th Technical Conference, 1991, SCA-9125
